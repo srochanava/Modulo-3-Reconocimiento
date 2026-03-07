@@ -1,4 +1,4 @@
-# Módulo 3 - Reconocimiento (OSINT y Footprinting)
+# Módulo 3 - Reconocimiento
 
 Este repositorio documenta las actividades realizadas en el **Módulo 3: Reconocimiento** del curso **"Hacking Ético - Impartido por ARACT"**, enfocadas en técnicas de inteligencia de fuentes abiertas (OSINT), Google Dorks, Google Hacking Database (GHDB) y mapeo visual de infraestructura con Maltego.
 
