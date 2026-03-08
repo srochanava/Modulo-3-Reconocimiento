@@ -9,9 +9,9 @@ Demostrar cómo la información pública puede exponerse involuntariamente y có
 
 - `evidencias.pdf` → Documento principal con las partes del ejercicio:
   - Parte 1: 8 búsquedas con Google Dorks + análisis de riesgos
-  - Capturas de resultados de cada Google Dork
+    →  Capturas de resultados de cada Google Dork
   - Parte 2: Investigación en Exploit Database (GHDB) – 3 dorks
-  - Capturas de la página de Exploit-DB con los dorks seleccionados
+    →  Capturas de la página de Exploit-DB con los dorks seleccionados
   - Parte 3: Mapa visual generado en Maltego (captura del grafo)
   - Parte 4: Reflexión escrita
 - `capturas/` → Carpeta con imágenes de evidencia: 
