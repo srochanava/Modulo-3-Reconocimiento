@@ -26,17 +26,10 @@ El activo implica interacción directa (ej. escaneo de puertos con Nmap), genera
 
 En el contexto de OSINT ético (y especialmente en certificaciones, cursos y checklists profesionales como los de SANS, OSINT Curious, Trace Labs, Bellingcat con enfoque ético, o guías de buenas prácticas en ciberseguridad), lo primero y obligatorio antes de iniciar cualquier investigación que pueda afectar a personas o entidades reales es:
 Obtener autorización explícita (consentimiento informado o permiso escrito) del cliente, la organización objetivo o la entidad que solicita la investigación.
-Esto aplica principalmente en escenarios profesionales:
-
-- Pentesting / Red Team con OSINT
-- Investigaciones privadas contratadas
-- Due diligence corporativa
-- Inteligencia competitiva (legal)
-- Búsquedas de personas desaparecidas o investigaciones humanitarias (Trace Labs, etc.)
 
 Sin autorización explícita, muchas acciones de OSINT (incluso las pasivas) pueden cruzar líneas éticas o legales:
 
-- Recolección de datos personales sin base legítima, Posible violación de privacidad (RGPD en Europa, LFPDPPP en México, etc.). Riesgo de mal uso de la información
+- Recolección de datos personales sin base legítima, Posible violación de privacidad. Riesgo de mal uso de la información.
 
 - **Aprendizaje principal**  
   La mayor parte de las exposiciones provienen de configuraciones descuidadas (directorios abiertos, credenciales en GitHub, archivos indexados). La higiene digital y el control de lo que se publica/indexa es fundamental.
